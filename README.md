@@ -81,7 +81,7 @@ Please only use the OpenThread name and marks when accurately referencing this s
 
 # Need help?
 
-There are numerous avenues for OpenThread support:
+There are numerous avenues for OpenThread support :
 
 - Bugs and feature requests — [submit to the Issue Tracker](https://github.com/openthread/openthread/issues)
 - Stack Overflow — [post questions using the `openthread` tag](http://stackoverflow.com/questions/tagged/openthread)
